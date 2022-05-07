@@ -1,7 +1,15 @@
 <h1>Hi 👋, I'm Othman</h1>
 <h3>A passionate frontend developer from Morocco</h3>
 
+- 🔭 I’m currently working as Frontend Developer Freelancer.
+
 - 🌱 I’m currently learning **ReactJs, AngularJs**
+
+- 👯 I’m looking to collaborate on any open source projects.
+
+- 🏠 I’m currently living at Meknes City, Morocco 🇲🇦.
+
+- 💬 Ask me about **JavaScript VueJs, HTML5, CSS3, TailwindCss.**
 
 - 📫 How to reach me **othmandeveloppeur@gmail.com**
 
