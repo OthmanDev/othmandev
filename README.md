@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently working as Frontend Developer Freelancer.
 
-- 🌱 I’m currently learning **ReactJs, AngularJs**
+- 🌱 I’m currently learning **AngularJs**
 
-- 👯 I’m looking to collaborate on any open source projects.
+- 👯 I’m looking to collaborate on any open-source projects.
 
-- 🏠 I’m currently living at Meknes City, Morocco 🇲🇦.
+- 🏠 I’m currently living in Meknes City, Morocco 🇲🇦.
 
-- 💬 Ask me about **JavaScript VueJs, HTML5, CSS3, TailwindCss.**
+- 💬 Ask me about **JavaScript VueJs, ReactJs, HTML5, CSS3, TailwindCss.**
 
 - 📫 How to reach me **othmandeveloppeur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/othman-gourirran-2932a5127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othman-gourirran-2932a5127/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/othman.gourriran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/othman.gourriran" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/othmandevedb09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/othmandevedb09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/othman-gourirran-2932a5127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othman-gourirran-2932a5127/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/othman.gourriran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/othman.gourriran" height="30" width="40" /></a>
+<a href="https://www.behance.net/othmandevedb09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/othmandevedb09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
