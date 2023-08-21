@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Othmane</h1>
-<h3>A highly skilled and experienced front-end developer with a passion for crafting elegant and user-friendly web interfaces. With 6 years of hands-on experience in front-end development.</h3>
+<h3>A highly skilled and experienced front-end developer with a passion for crafting elegant and user-friendly web interfaces. With 7 years of hands-on experience in front-end development.</h3>
 
 - 🔭 I’m currently working as Frontend Developer Freelancer.
 
