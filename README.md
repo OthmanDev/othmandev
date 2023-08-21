@@ -9,7 +9,7 @@
 
 - 🏠 I’m currently living in Meknes City, Morocco 🇲🇦.
 
-- 💬 Ask me about **JavaScript VueJs, ReactJs, HTML5, CSS3, TailwindCss.**
+- 💬 Ask me about **JavaScript, VueJs, ReactJs, HTML5, CSS3, TailwindCss.**
 
 - 📫 How to reach me **othmandeveloppeur@gmail.com**
 
