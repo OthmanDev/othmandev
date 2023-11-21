@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/othman-gourirran-2932a5127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othman-gourirran-2932a5127/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/othmane-gourirran-2932a5127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othman-gourirran-2932a5127/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/othman.gourriran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/othman.gourriran" height="30" width="40" /></a>
 <a href="https://www.behance.net/othmandevedb09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/othmandevedb09" height="30" width="40" /></a>
 </p>
