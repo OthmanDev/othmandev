@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Othmane</h1>
-<h3>A highly skilled and experienced front-end developer with a passion for crafting elegant and user-friendly web interfaces. With 7 years of hands-on experience in front-end development.</h3>
+<h3>As a seasoned Front-End Engineer with a deep commitment to crafting sophisticated and user-friendly web interfaces, I bring seven years of hands-on experience in front-end development. Throughout my career, I have refined my expertise in HTML, CSS, and JavaScript, enabling me to design seamless and responsive web applications. Additionally, I am proficient in popular front-end frameworks such as React.js and Vue.js, leveraging their capabilities to enhance the interactivity and performance of web-based projects.</h3>
 
-- 🔭 I’m currently working as Frontend Developer Freelancer.
+- 🔭 I’m currently working as a Front-End Engineer Freelancer.
 
 - 🌱 I’m currently learning **AngularJs**
 
