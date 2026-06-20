@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Senior+Front-End+Engineer+%C2%B7+8%2B+Years;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+TypeScript;E-commerce+%C2%B7+SaaS+%C2%B7+AI-Assisted+Development)](https://git.io/typing-svg)
 
-### React · Vue · Next.js · TypeScript · Tailwind CSS · Shopify · BigCommerce
+### React · Vue · Next.js · TypeScript · Tailwind CSS · Shopify
 
 [![Portfolio](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/OthmanDev)
 [![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge)](https://othmandev.github.io/othmane.gourirran.pdf)
@@ -38,7 +38,7 @@ I enjoy transforming complex business requirements into clean, scalable, and use
 | Vue Development | Vue.js & Nuxt.js applications |
 | Next.js Development | SSR, SSG, SEO-focused applications |
 | UI Engineering | Pixel-perfect Figma to Code |
-| E-commerce | Shopify & BigCommerce |
+| E-commerce | Shopify |
 | Performance | Core Web Vitals & Lighthouse |
 | AI-Assisted Development | Claude Code, Cursor, OpenAI |
 
@@ -48,7 +48,7 @@ I enjoy transforming complex business requirements into clean, scalable, and use
 
 - 🚀 Front-End Development
 - 🎨 Figma to Code
-- 🛒 Shopify & BigCommerce Development
+- 🛒 Shopify Development
 - ⚡ Performance Optimization
 - 📱 Responsive Web Applications
 - 🔧 Frontend Maintenance & Support
@@ -94,7 +94,6 @@ I enjoy transforming complex business requirements into clean, scalable, and use
 ## E-commerce & CMS
 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify)
-![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow)
 
