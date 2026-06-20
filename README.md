@@ -8,10 +8,11 @@
 
 ### React · Vue · Next.js · TypeScript · Tailwind CSS · Shopify
 
-[![Portfolio](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/OthmanDev)
-[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge)](https://othmandev.github.io/othmane.gourirran.pdf)
+[![Website](https://img.shields.io/badge/Website-92FE9D?style=for-the-badge&logo=googlechrome&logoColor=black)](https://othmandev.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://othmandev.github.io/othmane.gourirran.pdf)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01aebf796030857cd1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/othmane-gourirran-2932a5127/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-gourriran-2932a5127/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OthmanDev)
 
 </div>
 
@@ -189,6 +190,10 @@ Topics I'm passionate about:
 ## Let's Build Something Great 🚀
 
 Open to remote opportunities, freelance projects, and consulting engagements.
+
+[![Website](https://img.shields.io/badge/Visit_Website-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://othmandev.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://othmandev.github.io/othmane.gourirran.pdf)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01aebf796030857cd1)
 
 </div>
 
