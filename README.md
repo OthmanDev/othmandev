@@ -1,24 +1,196 @@
-<h1>Hi 👋, I'm Othmane</h1>
-<p>As a seasoned Front-End Engineer with a deep commitment to crafting sophisticated and user-friendly web interfaces, I bring seven years of hands-on experience in front-end development. Throughout my career, I have refined my expertise in HTML, CSS, and JavaScript, enabling me to design seamless and responsive web applications. Additionally, I am proficient in popular front-end frameworks such as React.js and Vue.js, leveraging their capabilities to enhance the interactivity and performance of web-based projects.</p>
+# Othmane Gourriran
 
-- 🔭 I’m currently working as a Front-End Engineer.
+<div align="center">
 
-- 🌱 I’m currently learning **AngularJs**
+<img width="100%" alt="Othmane Gourriran — Senior Front-End Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:0A0A0A&height=180&section=header&text=Othmane%20Gourriran&fontSize=44&fontColor=0A0A0A&animation=fadeIn&fontAlignY=32&desc=Senior%20Front-End%20Engineer%20%C2%B7%20React%20%C2%B7%20Vue%20%C2%B7%20Next.js&descAlignY=52&descSize=16&descColor=0A0A0A"/>
 
-- 👯 I’m looking to collaborate on any open-source projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Senior+Front-End+Engineer+%C2%B7+8%2B+Years;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+TypeScript;E-commerce+%C2%B7+SaaS+%C2%B7+AI-Assisted+Development)](https://git.io/typing-svg)
 
-- 🏠 I’m currently living in Meknes City, Morocco 🇲🇦.
+### React · Vue · Next.js · TypeScript · Tailwind CSS · Shopify · BigCommerce
 
-- 💬 Ask me about **JavaScript, VueJs, ReactJs, HTML5, CSS3, TailwindCss.**
+[![Portfolio](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/OthmanDev)
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge)](https://othmandev.github.io/othmane.gourirran.pdf)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01aebf796030857cd1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/othmane-gourirran-2932a5127/)
 
-- 📫 How to reach me **othmandeveloppeur@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/othmane-gourirran-2932a5127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othman-gourirran-2932a5127/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/othman.gourriran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/othman.gourriran" height="30" width="40" /></a>
-<a href="https://www.behance.net/othmandevedb09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/othmandevedb09" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+# About
+
+I'm **Othmane Gourriran**, a Senior Front-End Engineer based in **Meknes, Morocco 🇲🇦**.
+
+With **8+ years of experience**, I build modern web applications, SaaS platforms, enterprise dashboards, and e-commerce experiences using React, Vue, Next.js, TypeScript, and modern frontend technologies.
+
+I enjoy transforming complex business requirements into clean, scalable, and user-friendly products.
+
+**Status:** 🟢 Open for Work
+
+---
+
+# What I Do
+
+| Area | Focus |
+|--------|--------|
+| Front-End Development | Modern web applications & dashboards |
+| React Development | SPA architecture, hooks, state management |
+| Vue Development | Vue.js & Nuxt.js applications |
+| Next.js Development | SSR, SSG, SEO-focused applications |
+| UI Engineering | Pixel-perfect Figma to Code |
+| E-commerce | Shopify & BigCommerce |
+| Performance | Core Web Vitals & Lighthouse |
+| AI-Assisted Development | Claude Code, Cursor, OpenAI |
+
+---
+
+# Services
+
+- 🚀 Front-End Development
+- 🎨 Figma to Code
+- 🛒 Shopify & BigCommerce Development
+- ⚡ Performance Optimization
+- 📱 Responsive Web Applications
+- 🔧 Frontend Maintenance & Support
+- 🧠 AI-Assisted Development Workflows
+
+---
+
+# Available For
+
+`Senior Front-End Engineer` · `React Developer` · `Vue Developer` · `Next.js Developer` · `Frontend Consultant` · `Technical Lead` · `Freelance Projects` · `Remote Opportunities`
+
+---
+
+# Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs)
+
+## Styling
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+
+## E-commerce & CMS
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow)
+
+## AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=github)
+
+---
+
+# Experience Highlights
+
+| | |
+|---|---|
+| **8+** Years Experience | **50+** Projects Delivered |
+| **100%** Remote Experience | **International Clients** |
+| **React · Vue · Next.js** Specialist | **Enterprise Dashboards** |
+| **E-commerce Expert** | **AI-Assisted Workflows** |
+
+---
+
+# Featured Projects
+
+### FallTech
+Enterprise safety solutions platform built on BigCommerce.
+
+### Dashboard Applications
+Interactive admin dashboards, analytics, and reporting systems.
+
+### E-commerce Experiences
+Shopify and BigCommerce storefront development and optimization.
+
+### SaaS Platforms
+Frontend architecture and scalable user interfaces.
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OthmanDev&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OthmanDev&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OthmanDev&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OthmanDev&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OthmanDev&theme=github_dark&utcOffset=1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanDev&hide_border=true" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=OthmanDev&color=00C9FF&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+# Writing
+
+Topics I'm passionate about:
+
+- React Performance
+- Next.js Best Practices
+- Vue.js Architecture
+- E-commerce Development
+- Accessibility
+- Modern CSS
+- AI-Assisted Development
+
+---
+
+# Spoken Languages
+
+- 🇲🇦 Arabic — Native
+- 🇬🇧 English — Professional
+- 🇫🇷 French — Basic
+
+---
+
+# Connect With Me
+
+- GitHub: https://github.com/OthmanDev
+- LinkedIn: https://www.linkedin.com/in/othmane-gourirran-2932a5127/
+- Upwork: https://www.upwork.com/freelancers/~01aebf796030857cd1
+- Email: othmandeveloppeur@gmail.com
+
+---
+
+<div align="center">
+
+## Let's Build Something Great 🚀
+
+Open to remote opportunities, freelance projects, and consulting engagements.
+
+</div>
+
+<img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:92FE9D,100:00C9FF&height=100&section=footer"/>
